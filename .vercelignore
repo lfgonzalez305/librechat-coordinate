@@ -1,0 +1,10 @@
+node_modules
+.git
+.env*
+*.log
+.vercel
+.next
+pages
+app
+next.config.*
+tsconfig.json
