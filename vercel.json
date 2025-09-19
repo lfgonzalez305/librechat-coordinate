@@ -1,5 +1,5 @@
 {
-  "buildCommand": "npm run build",
+  "buildCommand": "npm run frontend",
   "outputDirectory": "client/dist",
   "installCommand": "npm install",
   "functions": {
